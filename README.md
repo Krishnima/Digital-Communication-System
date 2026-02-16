@@ -42,7 +42,7 @@
 -	Demodulation: ASK and PSK demodulation 
 -	Channel Decoding: Viterbi decoding 
 -	Source Decoding: Huffman decoding 
-
+-
 
 ## Simulation
 The simulation is performed using the following properties. 
